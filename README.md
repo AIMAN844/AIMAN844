@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm AHMAN </h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/5C1fJcEBFhPog3b9A">
+<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
 
 - 🌱 I’m currently learning **Power BI, MySQL, Python, Excel**
 
