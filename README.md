@@ -7,6 +7,10 @@
 - ⚡ Fun fact: I love analyzing data at 2 AM!
 
 <h3>🔗 Connect with me:</h3>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="300"/>
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahman-sheikh-06b40129a/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)]([https://yourportfolio.co](https://devpost.com/Ahman?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)m)
