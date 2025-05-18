@@ -7,8 +7,9 @@
 - ⚡ Fun fact: I love analyzing data at 2 AM!
 
 <h3>🔗 Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahman-sheikh-06b40129a/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)]([https://yourportfolio.co](https://devpost.com/Ahman?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)m)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahman-sheikh-06b40129a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://devpost.com/Ahman?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <h3>🛠️ Languages and Tools:</h3>
 
