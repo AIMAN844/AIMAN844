@@ -1,31 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ahman</h1>
+![logo](https://github.com/bkrsingh1008/bkrsingh1008/blob/main/github%20banner.png)
+
+<h1 align="center">Hi 👋, I'm Beauty Kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Power BI, MySQL, Excel, Python**
-- 💬 Ask me about **Dashboards, SQL Queries, Excel Formulas**
-- 📫 How to reach me: **alifsiddiqui64.com**
-- ⚡ Fun fact: I love analyzing data at 2 AM!
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<h3>🔗 Connect with me:</h3>
+- 🌱 I’m currently learning **Power BI, MySQL, Python, Excel**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahman-sheikh-06b40129a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://devpost.com/Ahman?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- 📫 How to reach me **beautyk.singh@gmail.com**
 
-<h3>🛠️ Languages and Tools:</h3>
+- ⚡ Fun fact **The best insights come between midnight and 3 AM.**
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/beauty-kumari-13945a227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/beauty-kumari-13945a227" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bkrsingh1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bkrsingh1008" height="30" width="40" /></a>
 </p>
 
-<h3>📊 Popular Repositories:</h3>
-
-- [Hospital Emergency Room Dashboard](https://github.com/AIMAN844/Hospital_Emergency_Room_Dashboard)
-- [Pizza_Sales_Dashboard](https://github.com/AIMAN844/Pizza_Sales_Dashboard)
-- [Exploratory-Data-Analysis](https://github.com/AIMAN844/Exploratory-Data-Analysis)
-- [Data-Analysis-in-Python](https://github.com/AIMAN844/Data-Analysis-in-Python)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-au/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="powerbi" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-in/microsoft-365/excel/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/179/360/non_2x/microsoft-excel-icon-logo-symbol-free-png.png" alt="excel" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+</p>
