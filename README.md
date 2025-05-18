@@ -8,8 +8,11 @@
 
 <h3>🔗 Connect with me:</h3>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="300"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/15299236/media/c7cfdc598259672dabd98b5f5f7c9000.png?compress=1&resize=800x600" width="400" alt="Data Analyst Cartoon" />
 </p>
+<p align="center"><i>Data speaks loudest when visualized well!</i></p>
+
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahman-sheikh-06b40129a/))
