@@ -7,15 +7,6 @@
 - ⚡ Fun fact: I love analyzing data at 2 AM!
 
 <h3>🔗 Connect with me:</h3>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/15299236/media/c7cfdc598259672dabd98b5f5f7c9000.png" width="400" />
-</p>
-
-<p align="center"><i>Data speaks loudest when visualized well!</i></p>
-
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahman-sheikh-06b40129a/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)]([https://yourportfolio.co](https://devpost.com/Ahman?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)m)
 
@@ -27,7 +18,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="300"/>
 
 </p>
 
