@@ -24,3 +24,4 @@
 - [Pizza_Sales_Dashboard](https://github.com/AIMAN844/Pizza_Sales_Dashboard)
 - [Exploratory-Data-Analysis](https://github.com/AIMAN844/Exploratory-Data-Analysis)
 - [Data-Analysis-in-Python](https://github.com/AIMAN844/Data-Analysis-in-Python)
+- [Hr_Analytics_Dashboard](https://github.com/AIMAN844/HR-analytics-Dashboard)
